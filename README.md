@@ -4,4 +4,7 @@ This repo contains an up-to-date Launcher3, with all the goodies Google added in
 
 Feel free to fork and use this as a base project for any launchers you might want to make in the future. I will try to keep it up with the latest changes from Google.
 
+## Customizations:
+1. Font family: from condensed to light;
+
 [Launcher3 Code](https://android.googlesource.com/platform/packages/apps/Launcher3/)
