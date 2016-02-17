@@ -188,7 +188,7 @@ public class InvariantDeviceProfile {
         predefinedDeviceProfiles.add(new InvariantDeviceProfile("Nexus 5",
                 359, 567,     4, 4, 4, 4, 4, DEFAULT_ICON_SIZE_DP, 13, 5, 56, R.xml.default_workspace_4x4));
         predefinedDeviceProfiles.add(new InvariantDeviceProfile("Large Phone",
-                406, 694,     5, 5, 4, 4, 4, 64, 14.4f,  5, 56, R.xml.default_workspace_5x5));
+                406, 694,     5, 5, 4, 4, 4, 60, 12,  5, 56, R.xml.default_workspace_5x5));
         // The tablet profile is odd in that the landscape orientation
         // also includes the nav bar on the side
         predefinedDeviceProfiles.add(new InvariantDeviceProfile("Nexus 7",
